@@ -36,7 +36,7 @@
 ```sql
 create user 'code'@'%' identified by 'code1234';
 GRANT ALL PRIVILEGES ON *.* TO 'code'@'%';
-create database instar;
+create database insta;
 ```
 
 ### yml 설정
